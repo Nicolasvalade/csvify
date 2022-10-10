@@ -1,6 +1,6 @@
 # csvify
 
-This package let's you write .csv files easily with Go.
+This package lets you write .csv files easily with Go.
 
 For more convenience it simply appends a new line to a file.
 If the file doesn't exist, it will be created.
